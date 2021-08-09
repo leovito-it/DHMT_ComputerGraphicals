@@ -1,11 +1,2 @@
-Please read:
-
-opengl-quick-reference-card.pdf
-glsl_quickref.pdf
-The OpenGL Shading Language.pdf
-
-before starting.
-
-
-OGL manpages:
-http://www.opengl.org/sdk/docs/manglsl/
+** Sử dụng ngôn ngữ C và thư viện có sẵn của giáo sư Angel để lập trình mô phỏng cảnh phòng bếp.
+OpenGL !

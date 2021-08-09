@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoHoa3D", "GLSLExperiment\GLSLExperiment.vcxproj", "{12C0483E-F4A1-4700-9ED4-062B5367C479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		Debug|Win32 = Debug|Win32
+		DVD-5|Win32 = DVD-5|Win32
+		Release|Win32 = Release|Win32
+		SingleImage|Win32 = SingleImage|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.CD_ROM|Win32.Build.0 = Release|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.Debug|Win32.ActiveCfg = Debug|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.Debug|Win32.Build.0 = Debug|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.DVD-5|Win32.Build.0 = Debug|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.Release|Win32.ActiveCfg = Release|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.Release|Win32.Build.0 = Release|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{12C0483E-F4A1-4700-9ED4-062B5367C479}.SingleImage|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E928CC5-BDDE-4E05-9BF1-5DD050D9D599}
+	EndGlobalSection
+EndGlobal
